@@ -3,9 +3,14 @@ Automatic Class Shedule Project for Texas Tech University, CS department, Summer
 
 
 # data
-Roomlist, Sections: containing room info from Ad Astra: https://www.aaiscloud.com/TXTechU/
+RoomList.xlsx, Sections.xlsx: containing room info from Ad Astra (https://www.aaiscloud.com/TXTechU/)
+professor courses.xlsxl: course allocation
+prefessor preference no single day: course preference score
+classroom property and availability.xlsx: available room output by find_rooms.ipynb
 
 # notebooks
--webui.ipynb
+-webui.ipynb: gradio UI interface for schedule plan and conflict check.
 
--generator: generate schedule via genetic algorithm
+-generator: generate proper schedules via genetic algorithm
+
+-find_rooms.ipynb: find available rooms with constrains
