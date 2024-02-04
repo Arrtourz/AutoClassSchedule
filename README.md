@@ -4,8 +4,11 @@ Automatic Class Shedule Project for Texas Tech University, CS department, Summer
 
 # data
 RoomList.xlsx, Sections.xlsx: containing room info from Ad Astra (https://www.aaiscloud.com/TXTechU/)
+
 professor courses.xlsxl: course allocation
+
 prefessor preference no single day: course preference score
+
 classroom property and availability.xlsx: available room output by find_rooms.ipynb
 
 # notebooks
