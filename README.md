@@ -17,3 +17,5 @@ classroom property and availability.xlsx: available room output by find_rooms.ip
 -generator: generate proper schedules via genetic algorithm
 
 -find_rooms.ipynb: find available rooms with constrains
+
+https://colab.research.google.com/drive/1KhoHeicIKEyD9V4b3Y0Wykzs69JJznzI?usp=sharing
