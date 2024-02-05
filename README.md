@@ -1,7 +1,6 @@
 # AutoClassSchedule
 Automatic Class Shedule Project for Texas Tech University, CS department, Summer 2023.
 
-
 # data
 RoomList.xlsx, Sections.xlsx: containing room info from Ad Astra (https://www.aaiscloud.com/TXTechU/)
 
@@ -15,6 +14,8 @@ classroom property and availability.xlsx: available room output by find_rooms.ip
 -webui.ipynb: gradio UI interface for schedule plan and conflict check.
 
 -generator: generate proper schedules via genetic algorithm
+
+https://drive.google.com/file/d/1cN3p-KDY67kVFP-P2esXk6jgx3Xj5rNG/view?usp=sharing
 
 -find_rooms.ipynb: find available rooms with constrains
 
