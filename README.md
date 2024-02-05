@@ -11,7 +11,7 @@ prefessor preference no single day: course preference score
 classroom property and availability.xlsx: available room output by find_rooms.ipynb
 
 # notebooks
--webui.ipynb: gradio UI interface for schedule plan and conflict check.
+-webui.ipynb: gradio UI interface for basic schedule plan and conflict check.
 
 -generator: generate proper schedules via genetic algorithm
 
