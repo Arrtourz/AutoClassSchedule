@@ -13,6 +13,8 @@ classroom property and availability.xlsx: available room output by find_rooms.ip
 # notebooks
 -webui.ipynb: gradio UI interface for basic schedule plan and conflict check.
 
+https://colab.research.google.com/drive/1CHJ0fYf9p7hWJn1-l35NTNyFHLqsgsWG?usp=sharing
+
 -generator: generate proper schedules via genetic algorithm
 
 https://drive.google.com/file/d/1cN3p-KDY67kVFP-P2esXk6jgx3Xj5rNG/view?usp=sharing
